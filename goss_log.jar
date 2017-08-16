@@ -1,0 +1,366 @@
+[org.apache.activemq.util.osgi.Activator] : activating
+[org.apache.activemq.util.osgi.Activator] : checking existing bundles
+[org.apache.activemq.util.osgi.Activator] : checking bundle 0
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 0
+[org.apache.activemq.util.osgi.Activator] : checking bundle 1
+[org.apache.activemq.util.osgi.Activator] : checking bundle 2
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 2
+[org.apache.activemq.util.osgi.Activator] : checking bundle 3
+[org.apache.activemq.util.osgi.Activator] : checking bundle 4
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 4
+[org.apache.activemq.util.osgi.Activator] : checking bundle 5
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 5
+[org.apache.activemq.util.osgi.Activator] : checking bundle 6
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 6
+[org.apache.activemq.util.osgi.Activator] : checking bundle 7
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 7
+[org.apache.activemq.util.osgi.Activator] : checking bundle 8
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 8
+[org.apache.activemq.util.osgi.Activator] : checking bundle 9
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 9
+[org.apache.activemq.util.osgi.Activator] : checking bundle 10
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 10
+[org.apache.activemq.util.osgi.Activator] : checking bundle 11
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 11
+[org.apache.activemq.util.osgi.Activator] : checking bundle 12
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 12
+[org.apache.activemq.util.osgi.Activator] : checking bundle 13
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 13
+[org.apache.activemq.util.osgi.Activator] : checking bundle 14
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 14
+[org.apache.activemq.util.osgi.Activator] : checking bundle 15
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 15
+[org.apache.activemq.util.osgi.Activator] : checking bundle 16
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 16
+[org.apache.activemq.util.osgi.Activator] : checking bundle 17
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 17
+[org.apache.activemq.util.osgi.Activator] : checking bundle 18
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 18
+[org.apache.activemq.util.osgi.Activator] : checking bundle 19
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 19
+[org.apache.activemq.util.osgi.Activator] : checking bundle 20
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 20
+[org.apache.activemq.util.osgi.Activator] : checking bundle 21
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 21
+[org.apache.activemq.util.osgi.Activator] : checking bundle 22
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 22
+[org.apache.activemq.util.osgi.Activator] : checking bundle 23
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 23
+[org.apache.activemq.util.osgi.Activator] : checking bundle 24
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 24
+[org.apache.activemq.util.osgi.Activator] : checking bundle 25
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 25
+[org.apache.activemq.util.osgi.Activator] : checking bundle 26
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 26
+[org.apache.activemq.util.osgi.Activator] : checking bundle 27
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 27
+[org.apache.activemq.util.osgi.Activator] : checking bundle 28
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 28
+[org.apache.activemq.util.osgi.Activator] : checking bundle 29
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 29
+[org.apache.activemq.util.osgi.Activator] : checking bundle 30
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 30
+[org.apache.activemq.util.osgi.Activator] : checking bundle 31
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 31
+[org.apache.activemq.util.osgi.Activator] : checking bundle 32
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 32
+[org.apache.activemq.util.osgi.Activator] : checking bundle 33
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 33
+[org.apache.activemq.util.osgi.Activator] : checking bundle 34
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 34
+[org.apache.activemq.util.osgi.Activator] : checking bundle 35
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 35
+[org.apache.activemq.util.osgi.Activator] : checking bundle 36
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 36
+[org.apache.activemq.util.osgi.Activator] : checking bundle 37
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 37
+[org.apache.activemq.util.osgi.Activator] : checking bundle 38
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 38
+[org.apache.activemq.util.osgi.Activator] : checking bundle 39
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 39
+[org.apache.activemq.util.osgi.Activator] : checking bundle 40
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 40
+[org.apache.activemq.util.osgi.Activator] : checking bundle 41
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 41
+[org.apache.activemq.util.osgi.Activator] : checking bundle 42
+[org.apache.activemq.util.osgi.Activator] : checking bundle 43
+[org.apache.activemq.util.osgi.Activator] : checking bundle 44
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 44
+[org.apache.activemq.util.osgi.Activator] : checking bundle 45
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 45
+[org.apache.activemq.util.osgi.Activator] : checking bundle 46
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 46
+[org.apache.activemq.util.osgi.Activator] : checking bundle 47
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 47
+[org.apache.activemq.util.osgi.Activator] : checking bundle 48
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 48
+[org.apache.activemq.util.osgi.Activator] : checking bundle 49
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 49
+[org.apache.activemq.util.osgi.Activator] : checking bundle 50
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 50
+[org.apache.activemq.util.osgi.Activator] : checking bundle 51
+[org.apache.activemq.util.osgi.Activator] : checking bundle 52
+[org.apache.activemq.util.osgi.Activator] : checking bundle 53
+[org.apache.activemq.util.osgi.Activator] : checking bundle 54
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 54
+[org.apache.activemq.util.osgi.Activator] : checking bundle 55
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 55
+[org.apache.activemq.util.osgi.Activator] : checking bundle 56
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 56
+[org.apache.activemq.util.osgi.Activator] : checking bundle 57
+[org.apache.activemq.util.osgi.Activator] : checking bundle 58
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 58
+[org.apache.activemq.util.osgi.Activator] : checking bundle 59
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 59
+[org.apache.activemq.util.osgi.Activator] : checking bundle 60
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 60
+[org.apache.activemq.util.osgi.Activator] : checking bundle 61
+[org.apache.activemq.util.osgi.Activator] : checking bundle 62
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 62
+[org.apache.activemq.util.osgi.Activator] : checking bundle 63
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 63
+[org.apache.activemq.util.osgi.Activator] : checking bundle 64
+[org.apache.activemq.util.osgi.Activator] : checking bundle 65
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 65
+[org.apache.activemq.util.osgi.Activator] : checking bundle 66
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 66
+[org.apache.activemq.util.osgi.Activator] : checking bundle 67
+[org.apache.activemq.util.osgi.Activator] : The bundle does not import us: 67
+[org.apache.activemq.util.osgi.Activator] : activated
+[org.apache.aries.blueprint.container.BlueprintExtender] : Starting blueprint extender...
+[org.apache.aries.blueprint.container.BlueprintExtender] : No quiesce support is available, so blueprint components will not participate in quiesce operations
+[org.apache.aries.blueprint.container.BlueprintExtender] : Blueprint extender started
+[org.eclipse.jetty.util.log] : Logging to org.ops4j.pax.logging.slf4j.Slf4jLogger@3c35712e via org.eclipse.jetty.util.log.Slf4jLog Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[DEBUG] Ignoring Servlet Service [javax.servlet.Servlet], alias is missing or empty
+[INFO] Http service whiteboard started
+[org.eclipse.jetty.server.AbstractConnector] : Statistics on = false for SelectChannelConnector@0.0.0.0:8080 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.Server@305b52d7 + SelectChannelConnector@0.0.0.0:8080 as connector Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : filterNameMap={} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : pathFilters=null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletFilterMap=null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletPathMap={/*=org.apache.felix.http.base.internal.DispatcherServlet-852938671} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletNameMap={org.apache.felix.http.base.internal.DispatcherServlet-852938671=org.apache.felix.http.base.internal.DispatcherServlet-852938671} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.handler.ContextHandlerCollection@1d080821 + o.e.j.s.ServletContextHandler{/,null} as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.Server@305b52d7 + org.eclipse.jetty.server.handler.ContextHandlerCollection@1d080821 as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.Server@305b52d7 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.Server] : jetty-7.x.y-SNAPSHOT Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.Server@305b52d7 + qtp363136249{8<=0<=0/254,-1} as threadpool Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.handler.ContextHandlerCollection@1d080821 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.servlet.ServletHandler@224bc2f3 + org.apache.felix.http.base.internal.DispatcherServlet-852938671 as servlet Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.servlet.ServletHandler@224bc2f3 + [/*]=>org.apache.felix.http.base.internal.DispatcherServlet-852938671 as servletMapping Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.session.SessionHandler@30927b1e + org.eclipse.jetty.servlet.ServletHandler@224bc2f3 as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.session.SessionHandler@30927b1e + org.eclipse.jetty.server.session.HashSessionManager@b179b04 as sessionManager Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container o.e.j.s.ServletContextHandler{/,null} + org.eclipse.jetty.server.session.SessionHandler@30927b1e as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.session.SessionHandler@30927b1e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.session.HashSessionManager@b179b04 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.Server@305b52d7 + org.eclipse.jetty.server.session.HashSessionIdManager@68da23b4 as sessionIdManager Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.session.HashSessionIdManager@68da23b4 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.session.HashSessionIdManager@68da23b4 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.session.HashSessionManager@b179b04 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.servlet.ServletHandler@224bc2f3 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : filterNameMap={} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : pathFilters=null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletFilterMap=null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletPathMap={/*=org.apache.felix.http.base.internal.DispatcherServlet-852938671} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletNameMap={org.apache.felix.http.base.internal.DispatcherServlet-852938671=org.apache.felix.http.base.internal.DispatcherServlet-852938671} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting org.eclipse.jetty.servlet.ServletHandler@224bc2f3 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.servlet.ServletHandler@224bc2f3 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting org.eclipse.jetty.server.session.SessionHandler@30927b1e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.session.SessionHandler@30927b1e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.ContextHandler] : started o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.apache.felix.http.base.internal.DispatcherServlet-852938671 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[DEBUG] Ignoring Servlet Service [javax.servlet.Servlet], alias is missing or empty
+[INFO] Detected extended HttpService. Filters enabled.
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.apache.felix.http.base.internal.DispatcherServlet-852938671 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting org.eclipse.jetty.server.handler.ContextHandlerCollection@1d080821 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.handler.ContextHandlerCollection@1d080821 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting org.eclipse.jetty.server.Server@305b52d7 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting HashLoginService[OSGi HTTP Service Realm] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.security.HashLoginService] : doStart: Starting new PropertyUserStore. PropertiesFile: null refreshInterval: 0 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.security.PropertyUserStore@8ae803d Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.security.PropertyUserStore@8ae803d Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED HashLoginService[OSGi HTTP Service Realm] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting qtp363136249{8<=0<=0/254,-1} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED qtp363136249{8<=6<=8/254,0} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting SelectChannelConnector@0.0.0.0:8080 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting null/null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED PooledBuffers [0/1024@6144,0/1024@8192,0/1024@-]/PooledBuffers [0/1024@6144,0/1024@24576,0/1024@-] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.nio.SelectChannelConnector$ConnectorSelectorManager@71822955 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.io.nio] : Starting Thread[qtp363136249-19 Selector0,5,main] on org.eclipse.jetty.io.nio.SelectorManager$1@216ce24a Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.nio.SelectChannelConnector$ConnectorSelectorManager@71822955 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.AbstractConnector] : Started SelectChannelConnector@0.0.0.0:8080 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED SelectChannelConnector@0.0.0.0:8080 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.Server@305b52d7 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[INFO] Started Jetty 7.6.13.v20130916 at port(s) HTTP:8080 on context path /
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping org.eclipse.jetty.server.Server@305b52d7 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping SelectChannelConnector@0.0.0.0:8080 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping org.eclipse.jetty.server.nio.SelectChannelConnector$ConnectorSelectorManager@71822955 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.io.nio] : Stopped Thread[qtp363136249-19 Selector0,5,main] on org.eclipse.jetty.io.nio.SelectorManager$1@216ce24a Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED org.eclipse.jetty.server.nio.SelectChannelConnector$ConnectorSelectorManager@71822955 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping PooledBuffers [0/1024@6144,0/1024@8192,0/1024@-]/PooledBuffers [0/1024@6144,0/1024@24576,0/1024@-] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED null/null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED SelectChannelConnector@0.0.0.0:8080 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping org.eclipse.jetty.server.handler.ContextHandlerCollection@1d080821 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : stopping org.eclipse.jetty.server.handler.ContextHandlerCollection@1d080821 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping org.eclipse.jetty.server.session.SessionHandler@30927b1e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping org.eclipse.jetty.server.session.HashSessionManager@b179b04 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED org.eclipse.jetty.server.session.HashSessionManager@b179b04 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping org.eclipse.jetty.servlet.ServletHandler@224bc2f3 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : stopping org.eclipse.jetty.servlet.ServletHandler@224bc2f3 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping org.apache.felix.http.base.internal.DispatcherServlet-852938671 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED org.apache.felix.http.base.internal.DispatcherServlet-852938671 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED org.eclipse.jetty.servlet.ServletHandler@224bc2f3 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : stopping org.eclipse.jetty.server.session.SessionHandler@30927b1e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED org.eclipse.jetty.server.session.SessionHandler@30927b1e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : stopping o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.ContextHandler] : stopped o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container o.e.j.s.ServletContextHandler{/,null} - org.eclipse.jetty.server.session.SessionHandler@30927b1e as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED org.eclipse.jetty.server.handler.ContextHandlerCollection@1d080821 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : stopping org.eclipse.jetty.server.Server@305b52d7 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping org.eclipse.jetty.server.session.HashSessionIdManager@68da23b4 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED org.eclipse.jetty.server.session.HashSessionIdManager@68da23b4 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping qtp363136249{8<=8<=8/254,0} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[DEBUG] Reusing context with id []
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED qtp363136249{8<=0<=0/254,1} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : stopping HashLoginService[OSGi HTTP Service Realm] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED HashLoginService[OSGi HTTP Service Realm] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STOPPED org.eclipse.jetty.server.Server@305b52d7 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.AbstractConnector] : Statistics on = false for SelectChannelConnector@0.0.0.0:8181 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.Server@407e0f1f + SelectChannelConnector@0.0.0.0:8181 as connector Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : filterNameMap={} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : pathFilters=null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletFilterMap=null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletPathMap={/*=org.apache.felix.http.base.internal.DispatcherServlet-984084328} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletNameMap={org.apache.felix.http.base.internal.DispatcherServlet-984084328=org.apache.felix.http.base.internal.DispatcherServlet-984084328} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.handler.ContextHandlerCollection@60ba444b + o.e.j.s.ServletContextHandler{/,null} as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.Server@407e0f1f + org.eclipse.jetty.server.handler.ContextHandlerCollection@60ba444b as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.Server@407e0f1f Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.Server] : jetty-7.x.y-SNAPSHOT Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.Server@407e0f1f + qtp1504020647{8<=0<=0/254,-1} as threadpool Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.handler.ContextHandlerCollection@60ba444b Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.servlet.ServletHandler@6993727b + org.apache.felix.http.base.internal.DispatcherServlet-984084328 as servlet Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.servlet.ServletHandler@6993727b + [/*]=>org.apache.felix.http.base.internal.DispatcherServlet-984084328 as servletMapping Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.session.SessionHandler@6cca0c8e + org.eclipse.jetty.servlet.ServletHandler@6993727b as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.session.SessionHandler@6cca0c8e + org.eclipse.jetty.server.session.HashSessionManager@5ee09540 as sessionManager Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container o.e.j.s.ServletContextHandler{/,null} + org.eclipse.jetty.server.session.SessionHandler@6cca0c8e as handler Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.session.SessionHandler@6cca0c8e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.session.HashSessionManager@5ee09540 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.Container] : Container org.eclipse.jetty.server.Server@407e0f1f + org.eclipse.jetty.server.session.HashSessionIdManager@2b75ce8b as sessionIdManager Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.session.HashSessionIdManager@2b75ce8b Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.session.HashSessionIdManager@2b75ce8b Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.session.HashSessionManager@5ee09540 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.servlet.ServletHandler@6993727b Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : filterNameMap={} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : pathFilters=null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletFilterMap=null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletPathMap={/*=org.apache.felix.http.base.internal.DispatcherServlet-984084328} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.servlet.ServletHandler] : servletNameMap={org.apache.felix.http.base.internal.DispatcherServlet-984084328=org.apache.felix.http.base.internal.DispatcherServlet-984084328} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting org.eclipse.jetty.servlet.ServletHandler@6993727b Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.servlet.ServletHandler@6993727b Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting org.eclipse.jetty.server.session.SessionHandler@6cca0c8e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.session.SessionHandler@6cca0c8e Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.ContextHandler] : started o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.apache.felix.http.base.internal.DispatcherServlet-984084328 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[DEBUG] Ignoring Servlet Service [javax.servlet.Servlet], alias is missing or empty
+[INFO] Detected extended HttpService. Filters enabled.
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.apache.felix.http.base.internal.DispatcherServlet-984084328 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED o.e.j.s.ServletContextHandler{/,null} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting org.eclipse.jetty.server.handler.ContextHandlerCollection@60ba444b Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.handler.ContextHandlerCollection@60ba444b Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.handler.AbstractHandler] : starting org.eclipse.jetty.server.Server@407e0f1f Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting HashLoginService[OSGi HTTP Service Realm] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.security.HashLoginService] : doStart: Starting new PropertyUserStore. PropertiesFile: null refreshInterval: 0 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.security.PropertyUserStore@255d0448 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.security.PropertyUserStore@255d0448 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED HashLoginService[OSGi HTTP Service Realm] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting qtp1504020647{8<=0<=0/254,-1} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED qtp1504020647{8<=7<=8/254,0} Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting SelectChannelConnector@0.0.0.0:8181 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting null/null Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED PooledBuffers [0/1024@6144,0/1024@8192,0/1024@-]/PooledBuffers [0/1024@6144,0/1024@24576,0/1024@-] Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : starting org.eclipse.jetty.server.nio.SelectChannelConnector$ConnectorSelectorManager@7e5109de Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.nio.SelectChannelConnector$ConnectorSelectorManager@7e5109de Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.server.AbstractConnector] : Started SelectChannelConnector@0.0.0.0:8181 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.io.nio] : Starting Thread[qtp1504020647-29 Selector0,5,main] on org.eclipse.jetty.io.nio.SelectorManager$1@4803cbce Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED SelectChannelConnector@0.0.0.0:8181 Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[org.eclipse.jetty.util.component.AbstractLifeCycle] : STARTED org.eclipse.jetty.server.Server@407e0f1f Ignored FQCN: org.eclipse.jetty.util.log.Slf4jLog
+[INFO] Started Jetty 7.6.13.v20130916 at port(s) HTTP:8181 on context path /
+org.ops4j.pax.logging.pax-logging-api[org.ops4j.pax.logging.internal.Activator] : Enabling SLF4J API support.
+org.ops4j.pax.logging.pax-logging-api[org.ops4j.pax.logging.internal.Activator] : Enabling Jakarta Commons Logging API support.
+org.ops4j.pax.logging.pax-logging-api[org.ops4j.pax.logging.internal.Activator] : Enabling Log4J API support.
+org.ops4j.pax.logging.pax-logging-api[org.ops4j.pax.logging.internal.Activator] : Enabling Avalon Logger API support.
+org.ops4j.pax.logging.pax-logging-api[org.ops4j.pax.logging.internal.Activator] : Enabling JULI Logger API support.
+[FelixDispatchQueue] DEBUG org.ops4j.pax.logging.pax-logging-service - BundleEvent STARTED - org.ops4j.pax.logging.pax-logging-service
+[FelixDispatchQueue] DEBUG osgi.cmpn - BundleEvent STARTED - osgi.cmpn
+[FelixDispatchQueue] DEBUG osgi.enterprise - BundleEvent STARTED - osgi.enterprise
+[FelixDispatchQueue] DEBUG osgi.residential - BundleEvent STARTED - osgi.residential
+[FelixDispatchQueue] DEBUG org.apache.httpcomponents.httpcore - BundleEvent STARTED - org.apache.httpcomponents.httpcore
+[main] DEBUG org.apache.httpcomponents.httpclient - ServiceEvent REGISTERED - [org.osgi.service.cm.ManagedServiceFactory] - org.apache.httpcomponents.httpclient
+[main] DEBUG org.apache.httpcomponents.httpclient - ServiceEvent REGISTERED - [org.apache.http.osgi.services.HttpClientBuilderFactory] - org.apache.httpcomponents.httpclient
+[FelixDispatchQueue] DEBUG org.apache.httpcomponents.httpclient - BundleEvent STARTED - org.apache.httpcomponents.httpclient
+[FelixDispatchQueue] DEBUG pnnl.goss.core.core-api - BundleEvent STARTED - pnnl.goss.core.core-api
+____________________________
+Welcome to Apache Felix Gogo
+
+g! [main] DEBUG pnnl.goss.core.goss-client - ServiceEvent REGISTERED - [org.osgi.service.cm.ManagedService] - pnnl.goss.core.goss-client
+[FelixDispatchQueue] DEBUG pnnl.goss.core.goss-client - BundleEvent STARTED - pnnl.goss.core.goss-client
+[FelixDispatchQueue] DEBUG pnnl.goss.core.goss-core-commands - BundleEvent STARTED - pnnl.goss.core.goss-core-commands
+[main] DEBUG pnnl.goss.core.goss-core-exceptions - ServiceEvent REGISTERED - [com.northconcepts.exception.ErrorText] - pnnl.goss.core.goss-core-exceptions
+[FelixDispatchQueue] DEBUG pnnl.goss.core.goss-core-exceptions - BundleEvent STARTED - pnnl.goss.core.goss-core-exceptions
+[main] DEBUG pnnl.goss.core.goss-core-security - ServiceEvent REGISTERED - [org.apache.shiro.mgt.SecurityManager] - pnnl.goss.core.goss-core-security
+[main] DEBUG pnnl.goss.core.goss-core-security - ServiceEvent REGISTERED - [org.apache.shiro.realm.Realm] - pnnl.goss.core.goss-core-security
+[main] DEBUG pnnl.goss.core.goss-core-security - ServiceEvent REGISTERED - [pnnl.goss.core.security.AuthorizationHandler] - pnnl.goss.core.goss-core-security
+[main] DEBUG pnnl.goss.core.goss-core-security - ServiceEvent REGISTERED - [pnnl.goss.core.security.PermissionAdapter] - pnnl.goss.core.goss-core-security
+[main] DEBUG pnnl.goss.core.goss-core-security - ServiceEvent REGISTERED - [pnnl.goss.core.security.GossPermissionResolver] - pnnl.goss.core.goss-core-security
+[FelixDispatchQueue] DEBUG pnnl.goss.core.goss-core-security - BundleEvent STARTED - pnnl.goss.core.goss-core-security
+[main] DEBUG pnnl.goss.core.goss-core-server - ServiceEvent REGISTERED - [pnnl.goss.core.server.TokenIdentifierMap] - pnnl.goss.core.goss-core-server
+[main] DEBUG pnnl.goss.core.goss-core-server - ServiceEvent REGISTERED - [org.osgi.service.cm.ManagedService] - pnnl.goss.core.goss-core-server
+[main] DEBUG pnnl.goss.core.goss-core-server - ServiceEvent REGISTERED - [org.osgi.service.cm.ManagedServiceFactory] - pnnl.goss.core.goss-core-server
+[FelixDispatchQueue] DEBUG pnnl.goss.core.goss-core-server - BundleEvent STARTED - pnnl.goss.core.goss-core-server
+[FelixDispatchQueue] DEBUG pnnl.goss.core.goss-core-server-api - BundleEvent STARTED - pnnl.goss.core.goss-core-server-api
+DEBUG| security-propertyfile (?) | ServiceEvent REGISTERED - [org.osgi.service.cm.ManagedService] - pnnl.goss.core.security-propertyfile
+DEBUG| security-propertyfile (?) | BundleEvent STARTED - pnnl.goss.core.security-propertyfile
+Registering Authorization Handler: pnnl.goss.core.security.AuthorizeAll
+DEBUG| goss-core-server-registry (?) | ServiceEvent REGISTERED - [pnnl.goss.core.server.RequestHandlerRegistry] - pnnl.goss.core.goss-core-server-registry
+DEBUG| goss-core-server-registry (?) | ServiceEvent REGISTERED - [pnnl.goss.core.server.DataSourceRegistry] - pnnl.goss.core.goss-core-server-registry
+DEBUG| goss-core-server-registry (?) | ServiceEvent REGISTERED - [pnnl.goss.core.server.DataSourceBuilder] - pnnl.goss.core.goss-core-server-registry
+DEBUG| goss-core-server-registry (?) | BundleEvent STARTED - pnnl.goss.core.goss-core-server-registry
+DEBUG| runner (?) | ServiceEvent REGISTERED - [pnnl.goss.core.security.AuthorizationHandler] - pnnl.goss.core.runner
+Registering Authorization Handler: pnnl.goss.core.server.runner.EchoAuthorizeAllHandler
+DEBUG| runner (?) | ServiceEvent REGISTERED - [pnnl.goss.core.server.RequestUploadHandler, pnnl.goss.core.server.RequestHandler] - pnnl.goss.core.runner
+Registering Upload Handler: pnnl.goss.core.server.runner.EchoRequestHandler
+DEBUG| EchoRequestHandler (43) | Getting handler datatypes
+Registering Request Handler: pnnl.goss.core.server.runner.EchoRequestHandler
+DEBUG| EchoRequestHandler (31) | Getting handler mapping
+DEBUG| runner (?) | ServiceEvent REGISTERED - [pnnl.goss.core.server.DataSourceObject] - pnnl.goss.core.runner
+DEBUG| DataSourceRegistryImpl (28) | Datasource registered: pnnl.goss.core.server.runner.datasource.CommandLogDataSource
+DEBUG| H2TestDataSource (42) | Connection pool datasource created for: jdbc:h2:mem:fusion
+DEBUG| runner (?) | ServiceEvent REGISTERED - [pnnl.goss.core.server.DataSourcePooledJdbc, pnnl.goss.core.server.DataSourceObject] - pnnl.goss.core.runner
+DEBUG| DataSourceRegistryImpl (28) | Datasource registered: pnnl.goss.core.server.runner.datasource.H2TestDataSource
+DEBUG| BlacklistRealm (32) | Starting Service
+DEBUG| runner (?) | ServiceEvent REGISTERED - [pnnl.goss.core.security.GossRealm] - pnnl.goss.core.runner
+DEBUG| runner (?) | ServiceEvent REGISTERED - [pnnl.goss.core.security.AuthorizationHandler] - pnnl.goss.core.runner
+Registering Authorization Handler: pnnl.goss.core.server.runner.EchoBlacklistedWordsHandler
+DEBUG| runner (?) | BundleEvent STARTED - pnnl.goss.core.runner
+Updating configuration properties
+DEBUG| runner (?) | ServiceEvent REGISTERED - [java.lang.Object] - pnnl.goss.core.runner
+DEBUG| goss-core-server (?) | ServiceEvent REGISTERED - [java.lang.Object] - pnnl.goss.core.goss-core-server
+DEBUG| goss-client (?) | ServiceEvent REGISTERED - [pnnl.goss.core.ClientFactory] - pnnl.goss.core.goss-client
+DEBUG| goss-core-commands (?) | ServiceEvent REGISTERED - [java.lang.Object] - pnnl.goss.core.goss-core-commands
+{}
+Creating consumer: 0
+DEBUG| ServerConsumer (86) | consume
+DEBUG| ServerConsumer (95) | end consume
+DEBUG| goss-core-server (?) | ServiceEvent REGISTERED - [pnnl.goss.core.server.ServerControl] - pnnl.goss.core.goss-core-server
+DEBUG| PooledSqlServiceImpl (57) | Creating datasource: example-datasource, User: user, URL: jdbc:mysql://localhost:3306/my_database)
+DEBUG| goss-core-server (?) | ServiceEvent REGISTERED - [pnnl.goss.core.server.DataSourceObject] - pnnl.goss.core.goss-core-server
+DEBUG| DataSourceRegistryImpl (28) | Datasource registered: example-datasource
+DEBUG| PropertyBasedRealm (80) | Updating PropertyBasedRealm
+DEBUG| security-propertyfile (?) | ServiceEvent REGISTERED - [pnnl.goss.core.security.GossRealm] - pnnl.goss.core.security-propertyfile
